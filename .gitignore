@@ -1,0 +1,4 @@
+__pycache__/
+.env
+*.pyc
+#this is a comment to test my git connection
